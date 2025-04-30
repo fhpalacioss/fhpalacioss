@@ -1,5 +1,5 @@
-## Hola, soy Felipe 👋
 
+<h1 align="center">Hello World 👋, I'm Felipe</h1>
 
 ```Javascript
 
@@ -23,3 +23,4 @@ class FelipeHernandez {
 }
 
 ```
+<a href="https://www.linkedin.com/in/felipe-hernandez-palacios-b0b886105/"><img alt="LinkedIn" src="https://img.shields.io/badge/-felipe_hernandez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-hernandez-palacios-b0b886105//"></a>
