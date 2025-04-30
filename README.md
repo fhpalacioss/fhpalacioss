@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hola, soy Felipe 👋
 
-<!--
-**fhpalacioss/fhpalacioss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class FelipeHernandez {
+  constructor() {
+    this.name = "Felipe Hernandez";
+    this.role = "Software developer";
+    this.studies = [
+      "Informatics Engineer"
+    ];
+    this.location = "Argentina";
+    this.skills = [
+      "Angular+18", "SQL", "c#", ".net",
+      "Node", "Liderazgo"
+    ];
+  }
+
+  enjoyHobbies() {
+    return "Reading, and drinking cofee... 📚🥊";
+  }
+}
+
+```
